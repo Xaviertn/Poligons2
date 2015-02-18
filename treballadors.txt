@@ -1,0 +1,64 @@
+Xavier Timoneda
+Encarregat
+3.5
+4
+Adrià Orellana
+Peó
+3.5
+7
+Josep Llordés
+Director
+3
+8
+Gerard Molina
+Ajudant
+4.5
+5
+Xavier Timoneda
+Informàtic
+3.5
+4
+Josep Ignasi
+Peó
+3.5
+10
+Roger Muntada
+Home-neteja
+3.2
+8
+Quima Sánchez
+Peó
+4.5
+6
+Roca
+Informàtic
+2
+7
+Vicente González
+Peó
+3.5
+10
+Andrei
+Gerent
+5
+9
+Marius
+Ajudant
+4.5
+5
+Lluís
+Encarregat
+3.5
+4
+Josep
+Peó
+3.5
+7
+Ferran
+Director
+3
+8
+Miquel
+Ajudant
+4.5
+5
