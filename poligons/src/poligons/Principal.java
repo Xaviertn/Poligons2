@@ -14,7 +14,7 @@ public class Principal {
 			int costats=0;
 			String nom =" ";
 			double costat=0;
-			
+			//qUE TAL
 			System.out.println("1- entrar Polígon al fitxer");
 			System.out.println("2- entrar Circumferencia al fitxer");
 			System.out.println("3- entrar Quadrat al fitxer");

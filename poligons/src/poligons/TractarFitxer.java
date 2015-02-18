@@ -8,7 +8,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-
+//VISCA CATALUNYA
 
 
 public class TractarFitxer {
