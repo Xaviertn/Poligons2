@@ -2,11 +2,11 @@ Xavier Timoneda
 Encarregat
 3.5
 4
-Adri‡ Orellana
-PeÛ
+Adri√† Orellana
+Pe√≥
 3.5
 7
-Josep LlordÈs
+Josep Llord√©s
 Director
 3
 8
@@ -15,27 +15,27 @@ Ajudant
 4.5
 5
 Xavier Timoneda
-Inform‡tic
+Inform√†tic
 3.5
 4
 Josep Ignasi
-PeÛ
+Pe√≥
 3.5
 10
 Roger Muntada
 Home-neteja
 3.2
 8
-Quima S·nchez
-PeÛ
+Quima S√°nchez
+Pe√≥
 4.5
 6
 Roca
-Inform‡tic
+Inform√†tic
 2
 7
-Vicente Gonz·lez
-PeÛ
+Vicente Gonz√°lez
+Pe√≥
 3.5
 10
 Andrei
@@ -46,12 +46,12 @@ Marius
 Ajudant
 4.5
 5
-LluÌs
+Llu√≠s
 Encarregat
 3.5
 4
 Josep
-PeÛ
+Pe√≥
 3.5
 7
 Ferran
@@ -62,5 +62,5 @@ Miquel
 Ajudant
 4.5
 5
-
+ALLLEEEEHOOOOP
 PUTAAAAA MERDAAAAAAAAAAAAAAA
