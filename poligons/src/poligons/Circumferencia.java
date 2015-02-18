@@ -4,7 +4,7 @@ public class Circumferencia extends Poligon {
 
 	private double radi;
 	
-	//CCOMENTARIIIIIIIIIII
+	
 	
 	
 	public double getRadi() {
